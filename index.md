@@ -8,7 +8,7 @@ Let's go and find out how you can start using IBM Cloud!
 *Hint:* If you do not have a feature code find Kim & David during the Developer Days!!!
 
 ## Check out our Github repositories
-[Tutorials†](https://cloud.ibm.com/docs/tutorials/index.html) that are part of the IBM Cloud Documentation  
+[Tutorials](https://cloud.ibm.com/docs/tutorials/index.html) that are part of the IBM Cloud Documentation  
 Cloud Developer Advocate Community
 BlueMirror
 
